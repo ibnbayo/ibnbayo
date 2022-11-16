@@ -1,4 +1,4 @@
-Hello there! My name is Abdullahi and I'm a full-stack developer at Univelcity where I hack at frontend things with my favourite tools in the React ecosystem and handle backend tasks on APIs for our customers. 
+Hello there! My name is Abdullahi and I'm a full-stack developer at Univelcity where I create pixel-perfect frontend solutions with my favourite tools in the React ecosystem and optimise business logic on the backend for our customers. 
 
 I'm a [Scrimba](https://scrimba.com/) grad and a serial hackathon winner. I created [App Video Chat](https://collaboration-video-app.netlify.app), a video call application feature for [Recursive](https://www.canva.com/design/DAFPMoHye9w/jM91bHXy9ObSrr84Wf73Ow/view?utm_content=DAFPMoHye9w&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#5), a startup solving some of the toughest problems in the edtech space.  
 
