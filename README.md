@@ -4,7 +4,7 @@ I'm a [Scrimba](https://scrimba.com/) grad and a serial hackathon winner. I crea
 
 ## Meta
 * Currently reading — Cracking the Coding Interview
-* Currently writing — [Recursive](https://abdullahifahm.hashnode.dev), (yes :joy:),my Hashnode blog. 
+* Currently writing — [Recursive](https://abdullahifahm.hashnode.dev) (yes :joy:),my Hashnode blog. 
 * Currently learning — ThreeJS and Blender (those are a package deal, tbh), Zustand and Data Structures & Algorithms.
 * Wanna reach out? I'm on Twitter as `@zzinedddine` and in the mailspace as [abdullahifahm@gmail.com](mailto:abdullahifahm@gmail.com)
 
