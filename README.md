@@ -15,6 +15,5 @@ I'm a [Scrimba](https://scrimba.com/) grad and a serial hackathon winner. I crea
 * PostgreSQL
 * Sequelize (as accompanying ORM to the above)
 * Redux
-* TabNine (where others use Copilot)
 * Tailwind
 * Django
