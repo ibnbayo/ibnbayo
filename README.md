@@ -3,10 +3,10 @@ Hello there! My name is Abdullahi and I'm a full-stack developer at Univelcity w
 I'm a [Scrimba](https://scrimba.com/) grad and a serial hackathon winner. I created [App Video Chat](https://collaboration-video-app.netlify.app), a video call application feature for [Recursive](https://www.canva.com/design/DAFPMoHye9w/jM91bHXy9ObSrr84Wf73Ow/view?utm_content=DAFPMoHye9w&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#5), a startup solving some of the knotty problems in the edtech space.  
 
 ## Meta
-* Currently reading — Cracking the Coding Interview
+* Currently reading — Structure and Interpretation of Computer Programs
 * Currently writing — [Recursive](https://abdullahifahm.hashnode.dev) (yes :joy:),my Hashnode blog. 
 * Currently learning — ThreeJS and Blender (those are a package deal, tbh), Zustand and Data Structures & Algorithms.
-* Wanna reach out? I'm on Twitter as `@zzinedddine` and in the mailspace as [abdullahifahm@gmail.com](mailto:abdullahifahm@gmail.com)
+* Wanna reach out? I'm on Twitter as `@zzinedddine`
 
 ## Favorite Tools
 * Typescript
