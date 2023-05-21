@@ -1,4 +1,4 @@
-Hello there! My name is Abdullahi and I'm a full-stack engineer at Univelcity. I built [Zazzani AI](https://zazzani.com), a groundbreaking multimodal AI tool that empowers entrepreneurs to build minimum viable products (MVPs) by integrating various AI models into a single user interface.
+Hello there! My name is Abdullahi and I'm a full-stack engineer at Univelcity. I built [Zazzani AI](https://zazzani.com), a groundbreaking multimodal AI tool that empowers entrepreneurs to build minimum viable products (MVPs) by integrating various AI models into a single user interface. The project was an instant hit, attracting hundreds of users, including a number of YC founders.
 
 ## Meta
 * Currently reading — Design Patterns: Elements of Reusable Object-Oriented Software
