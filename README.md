@@ -9,7 +9,7 @@ Hello there! My name is Abdullahi and I'm a full-stack engineer at Univelcity. I
 ## Favorite Tools
 * Typescript
 * React (by way of NextJS these days)
-* NodeJS (almost due to its ubiquity)
+* NodeJS
 * PostgreSQL
 * Sequelize (as accompanying ORM to the above)
 * Redux
