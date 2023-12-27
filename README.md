@@ -1,5 +1,5 @@
-Hello there! My name is Abdullahi and I'm a full-stack engineer at Univelcity.
-I recently led the development of [Zazzani AI](https://zazzani.com), an advanced multimodal AI tool that empowers founders to rapidly build MVPs by integrating various AI models into one intuitive interface. The project was an instant hit, scaling to thousands of users including a number of YCombinator founders.
+Hello there! My name is Abdullahi and I'm a full-stack engineer at isla.
+I led the development of [Zazzani AI](https://zazzani.com), an advanced multimodal AI tool that empowers founders to rapidly build MVPs by integrating various AI models into one intuitive interface. The project was an instant hit, scaling to thousands of users including a number of YCombinator founders.
 
 ## Meta
 * Currently reading — Design Patterns: Elements of Reusable Object-Oriented Software
