@@ -11,8 +11,8 @@ I led the development of [Zazzani AI](https://zazzani.com), an advanced multimod
 * Typescript
 * React (by way of NextJS these days)
 * NodeJS
-* PostgreSQL
-* Sequelize (as accompanying ORM to the above)
 * Redux
-* Tailwind
+* PostgreSQL
+* MongoDB
+* Python
 * Django
